@@ -1,0 +1,1 @@
+This project focuses on predicting the next day of flooding in Lagos State using historical weather data and machine learning techniques. The model is designed to help in disaster preparedness and response by providing accurate predictions of flood occurrences based on various environmental factors.
